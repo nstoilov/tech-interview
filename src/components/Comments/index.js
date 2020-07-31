@@ -72,9 +72,7 @@ function Comments({ timer }) {
   return (
     <div>
       <div className='timer'>{minutes + ':' + seconds}</div>
-      <div className='comments'>
         {comments && renderComments()}
-      </div>
     </div>
   );
 }
