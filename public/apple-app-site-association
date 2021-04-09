@@ -1,0 +1,39 @@
+{
+   "webcredentials": {
+      "apps": [
+         "BA9V9Q72T4.com.advanceauto.mobile.commerce.dev1",
+         "BA9V9Q72T4.com.advanceauto.mobile.commerce.qa1"
+      ]
+   },
+   "applinks": {
+      "apps": [],
+      "details": [
+         {
+            "appID": "BA9V9Q72T4.com.advanceauto.mobile.commerce.dev1",
+            "paths": [
+               "/",
+               "/c1/*/*",
+               "/c2/*/*",
+               "/c3/*/*",
+               "/c4/*/*",
+               "/brands/*",
+               "/web/SearchResults",
+               "/p/*/*"
+            ]
+         },
+         {
+            "appID": "BA9V9Q72T4.com.advanceauto.mobile.commerce.qa1",
+            "paths": [
+               "/",
+               "/c1/*/*",
+               "/c2/*/*",
+               "/c3/*/*",
+               "/c4/*/*",
+               "/brands/*",
+               "/web/SearchResults",
+               "/p/*/*"
+            ]
+         }
+      ]
+   }
+}
